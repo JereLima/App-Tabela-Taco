@@ -41,13 +41,3 @@ O que Foi utilizado nesse projeto
 
 O app está disponivel na playstore
 - https://play.google.com/store/apps/details?id=com.jsl.taco
-
-## Prints
-
-<div>
-    <img src="https://drive.google.com/file/d/1YUBSAAMVbM8HYtZ0e2CZuIclJy0wo0lu/view?usp=sharing" alt="HOME" width="250"/>
-    <img src="https://drive.google.com/file/d/1ihrk16TX6p2xi-sVDJeQSc4tPB_LF67f/view?usp=sharing" alt="FAVORITOS" width="250"/>
-    <img src="https://drive.google.com/file/d/1p2hCraa3QFFKhfbKXBLczOHegK5sMz3t/view?usp=sharing" alt="HOME COM BUSCA" width="250"/>
-    <img src="https://drive.google.com/file/d/1pZf6k3ZBk_dz_wmOrVQ2sUiinuGH9Bg5/view?usp=sharing" alt="FAVORITOS COM BUSCA" width="250"/>
-    <img src="https://drive.google.com/file/d/1NlgTN04c4tzcPIEA9N15RPrnINdPug9j/view?usp=sharing" alt="DETALHES" width="250"/>
-</div>
