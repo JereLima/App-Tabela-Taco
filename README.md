@@ -1,5 +1,5 @@
 
-# APP TABELA TACO 4º EDIÇÂO 2011
+# APP TABELA TACO 4º EDIÇÃO 2011
 
 App de Tabela Nutriconal baseado na Tabela Taco 4° de 2011, criada pela NEPA - UNICAMP
 
