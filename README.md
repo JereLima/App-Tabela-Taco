@@ -10,7 +10,7 @@ Esse app faz uso dos dados publicos da NEPA - UNICAMP para criar uma ferramenta 
 Vamos evoluir?
 Opa, evoluir sempre ❤️  
 Duas ideias que desejo adicionar em breve (ou quando for possivel... rsrs)
-- Comparação emtre alimentos
+- Comparação entre alimentos
 - Criação de tabela nutricional
 
 
